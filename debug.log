@@ -1,0 +1,3 @@
+[0727/143638.968:ERROR:gpu\ipc\client\command_buffer_proxy_impl.cc:122] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[0727/143728.045:ERROR:gpu\ipc\client\command_buffer_proxy_impl.cc:122] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[0727/144125.679:ERROR:gpu\ipc\client\command_buffer_proxy_impl.cc:122] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
